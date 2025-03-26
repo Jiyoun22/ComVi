@@ -1,5 +1,6 @@
 # ComVi
 한국어 소개 글이 아래에 나와있습니다.
+
 The Korean introduction is above, and the English introduction follows below.
 
 # 프로젝트 소개
@@ -44,7 +45,8 @@ Overcoming the Limitations of Cutie: Integrating Contrastive and Shadow Recognit
 This approach will make Cutie more suitable for a wide range of applications.
 
 ### Main Body
- ![image](https://github.com/user-attachments/assets/335f9351-9d02-4ebe-924e-6dcf739ebede)
+ ![image](https://github.com/user-attachments/assets/04959ef8-a4f3-47bf-b3be-a330057d08c8)
+
  Pixel-based segmentation is advantageous for precisely extracting object boundaries and detecting small movements but has the disadvantage of lacking consistency. On the other hand, object-based tracking enables consistent tracking of objects, providing more accurate results in complex scenes, but its ability to detect subtle changes is limited. The core of Cutie combines the strengths of both of these technologies. However, Cutie still has limitations when it comes to accurately recognizing close or overlapping objects.
  To address this, the addition of contrastive recognition technology is necessary. Contrastive recognition technology analyzes the color and brightness differences between closely positioned objects, helping to define their boundaries more clearly. Using one-hot encoding, we can distinguish between objects and non-objects and apply masking accordingly. This ensures that all objects are output with the same color mask. Additionally, by taking the number of objects to be recognized from the first frame as input, it will be more accurate in recognizing the correct number of objects compared to previous technologies that automatically recognized objects. Later, the LISA technology can either distinguish shadows from objects or include them, as needed.
 
