@@ -69,7 +69,10 @@ https://go-hard.tistory.com/40
 https://github.com/stevewongv/InstanceShadowDetection
 
 [1] Cheng, H. K., Oh, S. W., Price, B., Lee, J. Y., & Schwing, A. (2024). _Putting the Object Back into Video Object Segmentation_. GitHub. https://github.com/hkchengrex/Cutie.  
+
 [2] Oh, S. W., Lee, J. Y., Xu, N., & Kim, S. J. (2019). _Video Object Segmentation using Space-Time Memory Networks_. GitHub. https://github.com/seoungwugoh/STM.
+
 [3] Wang, T., Hu, X., Wang, Q., Heng, P.-A., & Fu, C.-W. (2020). _Instance Shadow Detection_. GitHub. https://github.com/stevewongv/InstanceShadowDetection.
+
 [4] Wang, T., Hu, X., Heng, P.-A., & Fu, C.-W. (2021). _SSIS (CVPR 2021 Oral) & SSISv2 (TPAMI 2022)_. GitHub. https://github.com/stevewongv/SSIS.
 
